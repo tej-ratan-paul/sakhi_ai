@@ -1,0 +1,11 @@
+{
+  "name": "Sakhi AI - Government Scheme Helper",
+  "short_name": "Sakhi AI",
+  "description": "Voice-in, voice-out grounded assistant for verified Indian government welfare schemes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#D84315",
+  "lang": "ta",
+  "icons": []
+}
